@@ -1,7 +1,7 @@
 [project]
 name = "flowlet"
 version = "0.1.0"
-description = "Add your description here"
+description = "A lightweight Python workflow engine with DAG nodes, async execution, and conditional branches."
 readme = "README.md"
-requires-python = ">=3.13"
+requires-python = ">=3.8"
 dependencies = []
