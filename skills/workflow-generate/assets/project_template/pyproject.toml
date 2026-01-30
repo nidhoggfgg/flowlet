@@ -1,0 +1,12 @@
+[project]
+name = "my-workflow"
+version = "0.1.0"
+description = "Flowlet 工作流项目"
+requires-python = ">=3.8"
+dependencies = [
+    "flowlet",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
